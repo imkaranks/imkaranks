@@ -1,4 +1,4 @@
-<img src="https://www.bing.com/th/id/OGC.468ea5462bf5306b060fdcbede8f5c8a?pid=1.7&rurl=https%3a%2f%2facegif.com%2fwp-content%2fuploads%2f2021%2f4fh5wi%2fwelcome-15.gif&ehk=6vXHbfrO8aJa0PZbNUBHdfVfW2IjjK%2feTGBzs16hD5M%3d" style="width:100%;max-height:250px;object-fit:cover" alt="animated boy welcoming you">
+<img src="https://www.bing.com/th/id/OGC.468ea5462bf5306b060fdcbede8f5c8a?pid=1.7&rurl=https%3a%2f%2facegif.com%2fwp-content%2fuploads%2f2021%2f4fh5wi%2fwelcome-15.gif&ehk=6vXHbfrO8aJa0PZbNUBHdfVfW2IjjK%2feTGBzs16hD5M%3d" height="300" style="width:100%;object-fit:cover" alt="animated boy welcoming you">
 
 # Hey there! I'm <span style="color:steelblue;">Karan</span>👋
 ### Don't be shy, have a look around👀
