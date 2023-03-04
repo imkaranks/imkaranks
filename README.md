@@ -1,5 +1,5 @@
+![](https://github.com/imkaranks/imkaranks/blob/main/karan-sethi-banner%20(1).jpg)
 # Hey there! I'm **Karan**👋
-### Don't be shy, have a look around👀
 
 ## Who am I?
 ### I'm a Son, Friend and Developer!
