@@ -1,4 +1,4 @@
-![](https://github.com/imkaranks/imkaranks/blob/main/karan-sethi-banner%20(1).jpg)
+![](https://github.com/imkaranks/imkaranks/blob/main/karan-sethi-banner.png)
 # Hey there! I'm **Karan**👋
 
 ## Who am I?
