@@ -1,45 +1,35 @@
-![](https://github.com/imkaranks/imkaranks/blob/main/karan-sethi-banner.png)
----
-```js
-class KaranSethi {
-  constructor() {
-    this.name = "Karan Sethi";
-    this.profile = "Frontend Developer";
-    this.portfolio = "https://imkaranks.github.io/";
-  }
+![Karan Sethi Banner](https://github.com/imkaranks/imkaranks/blob/main/karan-sethi-banner.png)
 
-  greet() {
-    return `Hey there👋, I'm ${this.name}`;
-  }
+# Karan Sethi —@imkaranks
 
-  whoAmI() {
-    return [
-      "👦 I'm a Son, Friend and Developer!",
-      "🚀 I'm currently learning web development frontend development. I'm based in Delhi, India.",
-      "📗 I'm always keen to learn more and get exposed to new ideas.",
-      "❤️ I love using utility based frameworks for css, current favorite is tailwindcss.",
-      "⚡ Fun fact: Aside from manipulating pixels, I also enjoy hiking, some chit-chats and meeting new peoples."
-    ];
-  }
+Hey there👋, Thanks for stopping by, I am **Karan**, an aspiring **frontend developer** based in **India**. I like to build cool stuff.
 
-  whatAmUpto() {
-    return [
-      "🎓 I'm currently persuing my Bachelor in Computer Application",
-      "🧙 I'm focusing more on frontend, brushing my skills.",
-      "📖 Recently I'm interested in web accessibility, so I'm reading more about it."
-    ]
-  }
+- I'm currently **exploring backend development**
+- Recently I'm **interested in web accessibility**, So I'm reading more about it.
+- I'm **learning react toolkit and ecosystem**
 
-  skills() {
-    return [
-      "✅ HTML 5",
-      "✅ CSS 3",
-      "✅ SCSS",
-      "✅ TailwindCSS",
-      "✅ Javascript",
-      "✅ ReactJS",
-      "🤷‍♂️ C/C++"
-    ]
-  }
-}
-```
+## 🧰 Languages & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📈 Github Stats
+
+[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkaranks&theme=transparent)
+](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkaranks&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
