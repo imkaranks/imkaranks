@@ -2,11 +2,11 @@
 
 # Karan Sethi —@imkaranks
 
-Hey there👋, Thanks for stopping by, I am **Karan**, an aspiring **frontend developer** based in **India**. I like to build cool stuff.
+Hey there👋, Thanks for stopping by, I am **Karan**, an aspiring **frontend developer** based in **India**. I like manipulating pixels to craft beautiful user interfaces.
 
 - I'm currently **exploring backend development**
 - Recently I'm **interested in web accessibility**, So I'm reading more about it.
-- I'm **learning react toolkit and ecosystem**
+- I'm **learning react ecosystem**
 
 ## 🧰 Languages & Tools
 
@@ -30,6 +30,6 @@ Hey there👋, Thanks for stopping by, I am **Karan**, an aspiring **frontend de
 ## 📈 Github Stats
 
 [![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=imkaranks&theme=transparent)
-](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/imkaranks)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkaranks&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkaranks&layout=compact&theme=transparent)](https://github.com/imkaranks)
