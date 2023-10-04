@@ -2,11 +2,9 @@
 
 # Karan Sethi —@imkaranks
 
-Hey there👋, Thanks for stopping by, I am **Karan**, an aspiring **frontend developer** based in **India**. I like manipulating pixels to craft beautiful user interfaces.
+Hey there👋, Thanks for stopping by, I am **Karan**, an aspiring **frontend developer** based in **India**. My passion lies in the world of pixels, where creativity knows no bounds. I'm on a mission to craft stunning websites that are not just visually appealing but also deliver an exceptional user experience.
 
-- I'm currently **exploring backend development**
-- Recently I'm **interested in web accessibility**, So I'm reading more about it.
-- I'm **learning react ecosystem**
+My journey into the digital realm is fueled by a profound love for design and an insatiable curiosity for cutting-edge technologies. With every project, I aim to seamlessly blend aesthetics and functionality, transforming ideas into immersive digital experiences.
 
 ## 🧰 Languages & Tools
 
@@ -26,6 +24,12 @@ Hey there👋, Thanks for stopping by, I am **Karan**, an aspiring **frontend de
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🤔 What I'm upto?
+
+- Exploring backend development.
+- Reading about Web Accessibility.
+- Learning React ecosystem.
 
 ## 📈 Github Stats
 
