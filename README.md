@@ -1,12 +1,10 @@
-<!-- ![Karan Sethi Banner](https://github.com/imkaranks/imkaranks/blob/main/karan-sethi-banner.png) -->
+![Karan Sethi Banner](https://github.com/imkaranks/imkaranks/blob/main/karan-sethi-banner.png)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imkaranks&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&column=5&theme=dracula" alt="imkaranks" /></a> </p>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=imkaranks&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy) -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imkaranks&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&column=5&theme=dracula&no-frame=true" alt="imkaranks" /></a> </p>
 
 ### About Me:
 
-Hey there👋, Thanks for stopping by, I am **Karan**, an aspiring **frontend developer** based in **India**. My passion lies in the world of pixels, where creativity knows no bounds. I'm on a mission to craft stunning websites that are not just visually appealing but also deliver an exceptional user experience.
+Hey there👋, Thanks for stopping by, I am **Karan Sethi**, an aspiring **frontend developer** based in **India**. My passion lies in the world of pixels, where creativity knows no bounds. I'm on a mission to craft stunning websites that are not just visually appealing but also deliver an exceptional user experience.
 
 My journey into the digital realm is fueled by a profound love for design and an insatiable curiosity for cutting-edge technologies. With every project, I aim to seamlessly blend aesthetics and functionality, transforming ideas into immersive digital experiences.
 
@@ -40,7 +38,7 @@ My journey into the digital realm is fueled by a profound love for design and an
 <h3 align="center">Github Stats: 📈</h3>
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=imkaranks&theme=dracula&border_radius=5&card_width=800">
+  <img width="700" height="220" src="https://streak-stats.demolab.com?user=imkaranks&theme=dracula&border_radius=5&card_width=800">
 </p>
 
 ---
